@@ -154,7 +154,7 @@ insurance-accounting-reconciliation-dashboard
 │
 ├── images
 │   ├── dashboard.png
-│   └── erd.png
+│   └── logical_data_model.png
 │
 └── README.md
 ```
